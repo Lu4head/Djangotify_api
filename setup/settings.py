@@ -26,6 +26,9 @@ INSTALLED_APPS = [
     'rest_framework',
     
     'genres',
+    'performers',
+    'musics',
+    'reviews',
 ]
 
 MIDDLEWARE = [
